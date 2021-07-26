@@ -8,6 +8,6 @@
 EalWafy/EalWafy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hi, i'm learning how to code,plz give a hints in you have !
+hi, i'm learning how to code,plz give a hints if you have any !
 thanks,
 Eal Wafy
